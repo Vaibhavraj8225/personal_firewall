@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/github/license/your-username/personal_firewall?style=flat-square">
-  <img src="https://img.shields.io/github/languages/top/your-username/personal_firewall?style=flat-square">
-  <img src="https://img.shields.io/github/issues/your-username/personal_firewall?style=flat-square">
+  <img src="https://img.shields.io/github/license/Vaibhavraj8225/personal_firewall?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/Vaibhavraj8225/personal_firewall?style=flat-square">
+  <img src="https://img.shields.io/github/issues/Vaibhavraj8225/personal_firewall?style=flat-square">
 </p>
 
 <p align="center">
@@ -23,8 +23,7 @@ A lightweight Python-based personal firewall that:
 ## 🚀 Features
 - Custom rule engine (IP, port, protocol based)
 - Logging and auditing
-- GUI with real-time packet display
-- CLI monitoring
+- CLI monitoring with real-time packet display
 - Integration with iptables (Linux only)
 
 ## 📦 Installation
